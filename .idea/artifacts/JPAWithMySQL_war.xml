@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="JPAWithMySQL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JPAWithMySQL.war">
+      <element id="artifact" artifact-name="JPAWithMySQL:war exploded" />
+    </root>
+  </artifact>
+</component>
